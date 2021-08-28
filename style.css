@@ -1,0 +1,20 @@
+#buttons {
+    display: flex;
+    justify-content: space-around;
+}
+button {
+    margin-top: 20px;
+    font-size: 56px;
+    border-radius: 15%;
+}
+#results {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 48px;
+}
+#scores {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    font-size: 48px;
+}
